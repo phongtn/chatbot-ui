@@ -2,11 +2,17 @@
 
 ## News
 
-Chatbot UI 2.0 is out as an updated, hosted product!
+Chatbot UI 2.0 will launch on Monday January 8th, 2024.
 
-Check out [Takeoff Chat](https://www.takeoffchat.com/).
+See a [preview](https://x.com/mckaywrigley/status/1738273242283151777?s=20).
 
-Open source version coming soon!
+This repo will be completely overhauled with the updated codebase.
+
+The old codebase will be available in a new repo.
+
+There will be several hours of downtime on ChatbotUI.com while the new version is deployed.
+
+We recommend exporting your data before the update!
 
 ## About
 
